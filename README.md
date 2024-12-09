@@ -1,5 +1,4 @@
-# 🎬 Site de Filmes
-> Desenvolvido por Vitória de Valois, a partir de aulas encontradas no meio eletrônico.
+
 
 ## 💻 Tecnologias Usadas
 
@@ -7,6 +6,3 @@
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
 
-
-## ❗ Sobre o Site
-> O objetivo do Site de Filmes é, expor minhas habilidades com HTML, CSS e JS a partir de estudos e aulas encontradas no meio eletrônico.
